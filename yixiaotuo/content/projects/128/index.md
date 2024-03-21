@@ -1,7 +1,7 @@
 +++
 title = '女神来了'
 date = 2018-09-06T17:46:40+08:00
-image = '/fe/img/thumbs/128.png'
+image = '/test-hugo-deploy/img/thumbs/128.png'
 summary = '#128'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = '在线检测器'
 date = 2018-08-24T17:43:21+08:00
-image = '/fe/img/thumbs/116.png'
+image = '/test-hugo-deploy/img/thumbs/116.png'
 summary = '#116'
 +++
 

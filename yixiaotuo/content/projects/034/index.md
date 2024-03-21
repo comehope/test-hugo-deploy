@@ -1,7 +1,7 @@
 +++
 title = '在文本前后穿梭的边框'
 date = 2018-05-27T15:46:03+08:00
-image = '/fe/img/thumbs/034.png'
+image = '/test-hugo-deploy/img/thumbs/034.png'
 summary = '#34'
 +++
 

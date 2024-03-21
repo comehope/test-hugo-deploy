@@ -1,7 +1,7 @@
 +++
 title = '日历'
 date = 2020-10-09T17:58:58+08:00
-image = '/fe/img/thumbs/174.png'
+image = '/test-hugo-deploy/img/thumbs/174.png'
 summary = '#174'
 +++
 

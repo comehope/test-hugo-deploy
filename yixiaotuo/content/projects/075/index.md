@@ -1,7 +1,7 @@
 +++
 title = '蜡烛'
 date = 2018-07-10T17:13:46+08:00
-image = '/fe/img/thumbs/075.png'
+image = '/test-hugo-deploy/img/thumbs/075.png'
 summary = '#75'
 +++
 

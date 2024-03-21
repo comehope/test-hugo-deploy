@@ -1,7 +1,7 @@
 +++
 title = '宇宙飞船'
 date = 2018-08-02T17:37:44+08:00
-image = '/fe/img/thumbs/096.png'
+image = '/test-hugo-deploy/img/thumbs/096.png'
 summary = '#96'
 +++
 

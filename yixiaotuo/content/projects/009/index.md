@@ -1,7 +1,7 @@
 +++
 title = '按钮被瞄准特效'
 date = 2018-05-01T15:09:14+08:00
-image = '/fe/img/thumbs/009.png'
+image = '/test-hugo-deploy/img/thumbs/009.png'
 summary = '#9'
 +++
 

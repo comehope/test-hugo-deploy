@@ -1,7 +1,7 @@
 +++
 title = '集体舞动画'
 date = 2018-10-02T17:52:37+08:00
-image = '/fe/img/thumbs/150.png'
+image = '/test-hugo-deploy/img/thumbs/150.png'
 summary = '#150'
 +++
 

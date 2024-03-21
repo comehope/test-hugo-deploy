@@ -1,7 +1,7 @@
 +++
 title = '足球场'
 date = 2018-06-28T17:10:23+08:00
-image = '/fe/img/thumbs/064.png'
+image = '/test-hugo-deploy/img/thumbs/064.png'
 summary = '#64'
 +++
 

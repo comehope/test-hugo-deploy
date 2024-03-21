@@ -1,7 +1,7 @@
 +++
 title = '3D 文字跑马灯特效'
 date = 2018-04-29T12:47:46+08:00
-image = '/fe/img/thumbs/007.png'
+image = '/test-hugo-deploy/img/thumbs/007.png'
 summary = '#7'
 +++
 

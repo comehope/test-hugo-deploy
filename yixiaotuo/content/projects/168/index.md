@@ -3,7 +3,7 @@ title = '切换单词的交互动画'
 date = 2019-05-23T19:43:55+08:00
 categories = ['开发实战']
 subtitle = '开发实战 第168号作品'
-image = '/fe/img/thumbs/168.png'
+image = '/test-hugo-deploy/img/thumbs/168.png'
 summary = '#168 把英语单词里的“OO”拟人化为两只眼睛，利用 Web Animation API 实现动画效果'
 +++
 

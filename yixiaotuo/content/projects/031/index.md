@@ -1,7 +1,7 @@
 +++
 title = '极简乒乓球对打'
 date = 2018-05-24T15:45:12+08:00
-image = '/fe/img/thumbs/031.png'
+image = '/test-hugo-deploy/img/thumbs/031.png'
 summary = '#31'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = '海浪'
 date = 2018-05-17T15:42:46+08:00
-image = '/fe/img/thumbs/024.png'
+image = '/test-hugo-deploy/img/thumbs/024.png'
 summary = '#24'
 +++
 

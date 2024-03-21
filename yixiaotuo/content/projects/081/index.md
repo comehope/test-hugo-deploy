@@ -1,7 +1,7 @@
 +++
 title = '变色旋转动画'
 date = 2018-07-17T17:15:27+08:00
-image = '/fe/img/thumbs/081.png'
+image = '/test-hugo-deploy/img/thumbs/081.png'
 summary = '#81'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = '透视按钮'
 date = 2018-09-29T17:51:55+08:00
-image = '/fe/img/thumbs/147.png'
+image = '/test-hugo-deploy/img/thumbs/147.png'
 summary = '#147'
 +++
 

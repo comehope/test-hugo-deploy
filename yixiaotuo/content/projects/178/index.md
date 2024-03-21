@@ -3,7 +3,7 @@ title = '地砖图案设计器'
 date = 2021-08-05T17:01:50+08:00
 categories = ['开发实战']
 subtitle = '开发实战 第178号作品'
-image = '/fe/img/thumbs/178.png'
+image = '/test-hugo-deploy/img/thumbs/178.png'
 summary = '#178'
 +++
 

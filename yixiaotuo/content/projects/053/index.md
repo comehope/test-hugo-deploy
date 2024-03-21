@@ -1,7 +1,7 @@
 +++
 title = '文本淡入淡出 loader'
 date = 2018-06-16T17:07:32+08:00
-image = '/fe/img/thumbs/053.png'
+image = '/test-hugo-deploy/img/thumbs/053.png'
 summary = '#53'
 +++
 

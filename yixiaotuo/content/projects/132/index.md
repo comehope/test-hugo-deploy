@@ -1,7 +1,7 @@
 +++
 title = '思考者的手'
 date = 2018-09-11T17:47:43+08:00
-image = '/fe/img/thumbs/132.png'
+image = '/test-hugo-deploy/img/thumbs/132.png'
 summary = '#132'
 +++
 

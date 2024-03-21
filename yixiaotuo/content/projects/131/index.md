@@ -1,7 +1,7 @@
 +++
 title = '剪刀'
 date = 2018-09-10T17:47:28+08:00
-image = '/fe/img/thumbs/131.png'
+image = '/test-hugo-deploy/img/thumbs/131.png'
 summary = '#131'
 +++
 

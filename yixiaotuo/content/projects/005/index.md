@@ -1,7 +1,7 @@
 +++
 title = '立体滑动 Toggle 控件'
 date = 2018-04-27T12:38:35+08:00
-image = '/fe/img/thumbs/005.png'
+image = '/test-hugo-deploy/img/thumbs/005.png'
 summary = '#5'
 +++
 

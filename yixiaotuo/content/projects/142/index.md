@@ -1,7 +1,7 @@
 +++
 title = '小公鸡邮票'
 date = 2018-09-25T17:50:35+08:00
-image = '/fe/img/thumbs/142.png'
+image = '/test-hugo-deploy/img/thumbs/142.png'
 summary = '#142'
 +++
 

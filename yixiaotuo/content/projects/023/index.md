@@ -1,7 +1,7 @@
 +++
 title = '菜单反色填充特效'
 date = 2018-05-16T15:42:26+08:00
-image = '/fe/img/thumbs/023.png'
+image = '/test-hugo-deploy/img/thumbs/023.png'
 summary = '#23'
 +++
 

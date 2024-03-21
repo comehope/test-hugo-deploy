@@ -1,7 +1,7 @@
 +++
 title = '双冀飞机'
 date = 2018-08-31T17:45:18+08:00
-image = '/fe/img/thumbs/123.png'
+image = '/test-hugo-deploy/img/thumbs/123.png'
 summary = '#123'
 +++
 

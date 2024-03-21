@@ -1,7 +1,7 @@
 +++
 title = '跳8字型舞的 loader'
 date = 2018-07-06T17:12:38+08:00
-image = '/fe/img/thumbs/071.png'
+image = '/test-hugo-deploy/img/thumbs/071.png'
 summary = '#71'
 +++
 

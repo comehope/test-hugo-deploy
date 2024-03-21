@@ -1,7 +1,7 @@
 +++
 title = '熊猫'
 date = 2018-05-28T15:46:19+08:00
-image = '/fe/img/thumbs/035.png'
+image = '/test-hugo-deploy/img/thumbs/035.png'
 summary = '#35'
 +++
 

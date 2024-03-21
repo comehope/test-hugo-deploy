@@ -1,7 +1,7 @@
 +++
 title = '黑白间色动画'
 date = 2018-08-17T17:41:11+08:00
-image = '/fe/img/thumbs/108.png'
+image = '/test-hugo-deploy/img/thumbs/108.png'
 summary = '#108'
 +++
 

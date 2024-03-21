@@ -1,7 +1,7 @@
 +++
 title = '艺术鸭子'
 date = 2018-08-19T17:42:01+08:00
-image = '/fe/img/thumbs/111.png'
+image = '/test-hugo-deploy/img/thumbs/111.png'
 summary = '#111'
 +++
 

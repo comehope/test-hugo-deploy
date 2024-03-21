@@ -1,7 +1,7 @@
 +++
 title = '按钮悬停特效'
 date = 2018-09-29T17:52:08+08:00
-image = '/fe/img/thumbs/148.png'
+image = '/test-hugo-deploy/img/thumbs/148.png'
 summary = '#148'
 +++
 

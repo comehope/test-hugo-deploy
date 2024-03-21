@@ -1,7 +1,7 @@
 +++
 title = '卡车 loader'
 date = 2018-08-13T17:40:10+08:00
-image = '/fe/img/thumbs/104.png'
+image = '/test-hugo-deploy/img/thumbs/104.png'
 summary = '#104'
 +++
 

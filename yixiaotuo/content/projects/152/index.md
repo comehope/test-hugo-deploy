@@ -1,7 +1,7 @@
 +++
 title = '黑色圆点错觉'
 date = 2018-10-07T17:53:09+08:00
-image = '/fe/img/thumbs/152.png'
+image = '/test-hugo-deploy/img/thumbs/152.png'
 summary = '#152'
 +++
 

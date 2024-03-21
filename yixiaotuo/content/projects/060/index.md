@@ -1,7 +1,7 @@
 +++
 title = '乐高积木块'
 date = 2018-06-24T17:09:21+08:00
-image = '/fe/img/thumbs/060.png'
+image = '/test-hugo-deploy/img/thumbs/060.png'
 summary = '#60'
 +++
 

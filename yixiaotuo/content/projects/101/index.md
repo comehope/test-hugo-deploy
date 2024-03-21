@@ -1,7 +1,7 @@
 +++
 title = '一组摆线'
 date = 2018-08-10T17:39:23+08:00
-image = '/fe/img/thumbs/101.png'
+image = '/test-hugo-deploy/img/thumbs/101.png'
 summary = '#101'
 +++
 

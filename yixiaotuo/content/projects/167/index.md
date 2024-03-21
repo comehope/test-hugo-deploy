@@ -1,7 +1,7 @@
 +++
 title = '两颗爱心'
 date = 2019-05-20T17:57:07+08:00
-image = '/fe/img/thumbs/167.png'
+image = '/test-hugo-deploy/img/thumbs/167.png'
 summary = '#167'
 +++
 

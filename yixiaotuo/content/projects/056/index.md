@@ -1,7 +1,7 @@
 +++
 title = '程序员的生活'
 date = 2018-06-19T17:08:21+08:00
-image = '/fe/img/thumbs/056.png'
+image = '/test-hugo-deploy/img/thumbs/056.png'
 summary = '#56'
 +++
 

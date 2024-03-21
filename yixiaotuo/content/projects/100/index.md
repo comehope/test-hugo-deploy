@@ -1,7 +1,7 @@
 +++
 title = '闪光的霓虹文字'
 date = 2018-08-09T17:39:07+08:00
-image = '/fe/img/thumbs/100.png'
+image = '/test-hugo-deploy/img/thumbs/100.png'
 summary = '#100'
 +++
 

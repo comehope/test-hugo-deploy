@@ -1,7 +1,7 @@
 +++
 title = '荧光脉冲 loading 特效'
 date = 2018-05-03T15:15:17+08:00
-image = '/fe/img/thumbs/011.png'
+image = '/test-hugo-deploy/img/thumbs/011.png'
 summary = '#11'
 +++
 

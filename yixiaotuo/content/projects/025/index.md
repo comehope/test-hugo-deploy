@@ -1,7 +1,7 @@
 +++
 title = '慧星拖尾 loader'
 date = 2018-05-18T15:43:03+08:00
-image = '/fe/img/thumbs/025.png'
+image = '/test-hugo-deploy/img/thumbs/025.png'
 summary = '#25'
 +++
 

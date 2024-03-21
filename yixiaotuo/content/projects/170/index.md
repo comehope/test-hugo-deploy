@@ -1,7 +1,7 @@
 +++
 title = '2020 新年快乐'
 date = 2020-01-01T17:57:30+08:00
-image = '/fe/img/thumbs/170.png'
+image = '/test-hugo-deploy/img/thumbs/170.png'
 summary = '#170'
 +++
 

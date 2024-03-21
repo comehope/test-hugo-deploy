@@ -1,7 +1,7 @@
 +++
 title = '徘徊的果冻怪兽'
 date = 2018-07-05T17:12:20+08:00
-image = '/fe/img/thumbs/070.png'
+image = '/test-hugo-deploy/img/thumbs/070.png'
 summary = '#70'
 +++
 

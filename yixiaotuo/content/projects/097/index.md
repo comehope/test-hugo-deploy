@@ -1,7 +1,7 @@
 +++
 title = '昂首阔步的圆点'
 date = 2018-08-03T17:37:57+08:00
-image = '/fe/img/thumbs/097.png'
+image = '/test-hugo-deploy/img/thumbs/097.png'
 summary = '#97'
 +++
 

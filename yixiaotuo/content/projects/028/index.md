@@ -1,7 +1,7 @@
 +++
 title = '彭罗斯三角形'
 date = 2018-05-21T15:44:05+08:00
-image = '/fe/img/thumbs/028.png'
+image = '/test-hugo-deploy/img/thumbs/028.png'
 summary = '#28'
 +++
 

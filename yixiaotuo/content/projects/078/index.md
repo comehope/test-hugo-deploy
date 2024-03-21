@@ -1,7 +1,7 @@
 +++
 title = 'Windows启动界面'
 date = 2018-07-14T17:14:38+08:00
-image = '/fe/img/thumbs/078.png'
+image = '/test-hugo-deploy/img/thumbs/078.png'
 summary = '#78'
 +++
 

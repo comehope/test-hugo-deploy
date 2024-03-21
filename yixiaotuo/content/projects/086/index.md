@@ -1,7 +1,7 @@
 +++
 title = '旋转的方块'
 date = 2018-07-22T17:16:47+08:00
-image = '/fe/img/thumbs/086.png'
+image = '/test-hugo-deploy/img/thumbs/086.png'
 summary = '#86'
 +++
 

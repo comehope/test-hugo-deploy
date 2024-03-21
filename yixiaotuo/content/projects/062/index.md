@@ -1,7 +1,7 @@
 +++
 title = '蒸锅'
 date = 2018-06-26T17:09:52+08:00
-image = '/fe/img/thumbs/062.png'
+image = '/test-hugo-deploy/img/thumbs/062.png'
 summary = '#62'
 +++
 

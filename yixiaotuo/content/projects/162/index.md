@@ -1,7 +1,7 @@
 +++
 title = 'Github 用户卡片'
 date = 2018-11-19T17:55:57+08:00
-image = '/fe/img/thumbs/162.png'
+image = '/test-hugo-deploy/img/thumbs/162.png'
 summary = '#162'
 +++
 

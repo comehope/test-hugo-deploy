@@ -1,7 +1,7 @@
 +++
 title = '弹跳的字母 i'
 date = 2018-07-18T17:15:45+08:00
-image = '/fe/img/thumbs/082.png'
+image = '/test-hugo-deploy/img/thumbs/082.png'
 summary = '#82'
 +++
 

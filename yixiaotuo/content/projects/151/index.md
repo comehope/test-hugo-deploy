@@ -1,7 +1,7 @@
 +++
 title = '大白'
 date = 2018-10-06T17:52:52+08:00
-image = '/fe/img/thumbs/151.png'
+image = '/test-hugo-deploy/img/thumbs/151.png'
 summary = '#151'
 +++
 

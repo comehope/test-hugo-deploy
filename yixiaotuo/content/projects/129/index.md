@@ -1,7 +1,7 @@
 +++
 title = '条纹错觉'
 date = 2018-09-07T17:46:55+08:00
-image = '/fe/img/thumbs/129.png'
+image = '/test-hugo-deploy/img/thumbs/129.png'
 summary = '#129'
 +++
 

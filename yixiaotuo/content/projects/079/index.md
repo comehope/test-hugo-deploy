@@ -1,7 +1,7 @@
 +++
 title = '麦当劳 Logo'
 date = 2018-07-15T17:14:55+08:00
-image = '/fe/img/thumbs/079.png'
+image = '/test-hugo-deploy/img/thumbs/079.png'
 summary = '#79'
 +++
 

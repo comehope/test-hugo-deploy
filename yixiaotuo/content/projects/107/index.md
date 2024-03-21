@@ -1,7 +1,7 @@
 +++
 title = '单眼怪兽'
 date = 2018-08-16T17:40:57+08:00
-image = '/fe/img/thumbs/107.png'
+image = '/test-hugo-deploy/img/thumbs/107.png'
 summary = '#107'
 +++
 

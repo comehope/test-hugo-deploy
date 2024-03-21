@@ -1,7 +1,7 @@
 +++
 title = '气泡填色按钮'
 date = 2018-07-07T17:12:56+08:00
-image = '/fe/img/thumbs/072.png'
+image = '/test-hugo-deploy/img/thumbs/072.png'
 summary = '#72'
 +++
 

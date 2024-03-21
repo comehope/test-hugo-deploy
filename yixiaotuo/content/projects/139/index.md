@@ -1,7 +1,7 @@
 +++
 title = '光斑粒子'
 date = 2018-09-20T17:49:43+08:00
-image = '/fe/img/thumbs/139.png'
+image = '/test-hugo-deploy/img/thumbs/139.png'
 summary = '#139'
 +++
 

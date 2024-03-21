@@ -3,7 +3,7 @@ title = '算术训练程序'
 date = 2018-12-27T19:58:24+08:00
 categories = ['开发实战']
 subtitle = '开发实战 第165号作品'
-image = '/fe/img/thumbs/165.png'
+image = '/test-hugo-deploy/img/thumbs/165.png'
 summary = '#165 用于训练口算两位数四则运算'
 +++
 

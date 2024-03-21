@@ -1,7 +1,7 @@
 +++
 title = '小球变矩形背景按钮特效'
 date = 2018-09-04T17:46:02+08:00
-image = '/fe/img/thumbs/126.png'
+image = '/test-hugo-deploy/img/thumbs/126.png'
 summary = '#126'
 +++
 

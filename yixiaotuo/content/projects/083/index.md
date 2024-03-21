@@ -1,7 +1,7 @@
 +++
 title = '上台阶的小球'
 date = 2018-07-19T17:16:04+08:00
-image = '/fe/img/thumbs/083.png'
+image = '/test-hugo-deploy/img/thumbs/083.png'
 summary = '#83'
 +++
 

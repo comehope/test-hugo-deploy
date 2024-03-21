@@ -1,7 +1,7 @@
 +++
 title = '接扎啤'
 date = 2018-08-27T17:44:05+08:00
-image = '/fe/img/thumbs/119.png'
+image = '/test-hugo-deploy/img/thumbs/119.png'
 summary = '#119'
 +++
 

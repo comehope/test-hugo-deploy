@@ -1,7 +1,7 @@
 +++
 title = '眼冒金星'
 date = 2018-10-12T17:53:37+08:00
-image = '/fe/img/thumbs/154.png'
+image = '/test-hugo-deploy/img/thumbs/154.png'
 summary = '#154'
 +++
 

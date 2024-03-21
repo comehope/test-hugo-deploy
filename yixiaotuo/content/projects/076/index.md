@@ -1,7 +1,7 @@
 +++
 title = '一组办公用品'
 date = 2018-07-12T17:14:05+08:00
-image = '/fe/img/thumbs/076.png'
+image = '/test-hugo-deploy/img/thumbs/076.png'
 summary = '#76'
 +++
 

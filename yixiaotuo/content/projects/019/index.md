@@ -1,7 +1,7 @@
 +++
 title = '文字被切开的菜单导航特效'
 date = 2018-05-12T15:40:37+08:00
-image = '/fe/img/thumbs/019.png'
+image = '/test-hugo-deploy/img/thumbs/019.png'
 summary = '#19'
 +++
 

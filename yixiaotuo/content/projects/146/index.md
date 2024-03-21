@@ -1,7 +1,7 @@
 +++
 title = '脉动 loader'
 date = 2018-09-28T17:51:36+08:00
-image = '/fe/img/thumbs/146.png'
+image = '/test-hugo-deploy/img/thumbs/146.png'
 summary = '#146'
 +++
 

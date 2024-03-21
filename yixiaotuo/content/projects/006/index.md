@@ -1,7 +1,7 @@
 +++
 title = '蓝色璀璨钻石'
 date = 2018-04-28T12:40:38+08:00
-image = '/fe/img/thumbs/006.png'
+image = '/test-hugo-deploy/img/thumbs/006.png'
 summary = '#6'
 +++
 

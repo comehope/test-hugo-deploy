@@ -1,7 +1,7 @@
 +++
 title = '自行车车轮'
 date = 2018-07-16T17:15:11+08:00
-image = '/fe/img/thumbs/080.png'
+image = '/test-hugo-deploy/img/thumbs/080.png'
 summary = '#80'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = '燃烧的火焰'
 date = 2018-07-24T17:17:25+08:00
-image = '/fe/img/thumbs/088.png'
+image = '/test-hugo-deploy/img/thumbs/088.png'
 summary = '#88'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = '愤怒小鸟的黑炮'
 date = 2018-08-18T17:41:48+08:00
-image = '/fe/img/thumbs/110.png'
+image = '/test-hugo-deploy/img/thumbs/110.png'
 summary = '#110'
 +++
 

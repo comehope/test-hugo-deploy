@@ -1,7 +1,7 @@
 +++
 title = '赛车 loader'
 date = 2018-08-21T17:42:32+08:00
-image = '/fe/img/thumbs/113.png'
+image = '/test-hugo-deploy/img/thumbs/113.png'
 summary = '#113'
 +++
 

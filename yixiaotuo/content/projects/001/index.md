@@ -4,7 +4,7 @@ date = 2018-04-23T19:01:50+08:00
 summary = '#1'
 categories = ['开发实战']
 subtitle = '开发实战 第1号作品'
-image = '/fe/img/thumbs/001.png'
+image = '/test-hugo-deploy/img/thumbs/001.png'
 +++
 
 ![](./work.webp)

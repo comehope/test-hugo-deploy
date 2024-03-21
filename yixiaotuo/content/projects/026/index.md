@@ -1,7 +1,7 @@
 +++
 title = '从纸上掀起的按钮'
 date = 2018-05-19T15:43:27+08:00
-image = '/fe/img/thumbs/026.png'
+image = '/test-hugo-deploy/img/thumbs/026.png'
 summary = '#26'
 +++
 

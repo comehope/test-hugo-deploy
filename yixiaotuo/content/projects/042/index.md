@@ -1,7 +1,7 @@
 +++
 title = '均衡器'
 date = 2018-06-04T15:50:38+08:00
-image = '/fe/img/thumbs/042.png'
+image = '/test-hugo-deploy/img/thumbs/042.png'
 summary = '#42'
 +++
 

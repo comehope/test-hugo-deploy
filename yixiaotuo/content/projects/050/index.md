@@ -1,7 +1,7 @@
 +++
 title = '牛顿摆'
 date = 2018-06-13T17:06:45+08:00
-image = '/fe/img/thumbs/050.png'
+image = '/test-hugo-deploy/img/thumbs/050.png'
 summary = '#50'
 +++
 

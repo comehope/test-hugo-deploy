@@ -1,7 +1,7 @@
 +++
 title = '热气球'
 date = 2018-10-13T17:53:55+08:00
-image = '/fe/img/thumbs/155.png'
+image = '/test-hugo-deploy/img/thumbs/155.png'
 summary = '#155'
 +++
 

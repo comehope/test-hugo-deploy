@@ -1,7 +1,7 @@
 +++
 title = '按钮右移悬停特效'
 date = 2018-09-13T17:48:29+08:00
-image = '/fe/img/thumbs/135.png'
+image = '/test-hugo-deploy/img/thumbs/135.png'
 summary = '#135'
 +++
 

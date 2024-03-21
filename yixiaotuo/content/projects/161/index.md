@@ -1,7 +1,7 @@
 +++
 title = '卓别林'
 date = 2018-10-24T17:55:41+08:00
-image = '/fe/img/thumbs/161.png'
+image = '/test-hugo-deploy/img/thumbs/161.png'
 summary = '#161'
 +++
 

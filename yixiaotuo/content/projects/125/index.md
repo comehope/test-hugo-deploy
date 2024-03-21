@@ -1,7 +1,7 @@
 +++
 title = '失落的人'
 date = 2018-09-03T17:45:46+08:00
-image = '/fe/img/thumbs/125.png'
+image = '/test-hugo-deploy/img/thumbs/125.png'
 summary = '#125'
 +++
 

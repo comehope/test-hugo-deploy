@@ -1,7 +1,7 @@
 +++
 title = '拍立得照相机'
 date = 2018-07-31T17:32:24+08:00
-image = '/fe/img/thumbs/094.png'
+image = '/test-hugo-deploy/img/thumbs/094.png'
 summary = '#94'
 +++
 

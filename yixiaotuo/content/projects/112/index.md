@@ -1,7 +1,7 @@
 +++
 title = '背景切换按钮特效'
 date = 2018-08-20T17:42:18+08:00
-image = '/fe/img/thumbs/112.png'
+image = '/test-hugo-deploy/img/thumbs/112.png'
 summary = '#112'
 +++
 

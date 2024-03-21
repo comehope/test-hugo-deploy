@@ -1,7 +1,7 @@
 +++
 title = '冒着热气的咖啡杯'
 date = 2018-05-05T15:21:41+08:00
-image = '/fe/img/thumbs/013.png'
+image = '/test-hugo-deploy/img/thumbs/013.png'
 summary = '#13'
 +++
 

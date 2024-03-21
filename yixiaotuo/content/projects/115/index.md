@@ -1,7 +1,7 @@
 +++
 title = 'pi 彩灯信息图'
 date = 2018-08-23T17:43:05+08:00
-image = '/fe/img/thumbs/115.png'
+image = '/test-hugo-deploy/img/thumbs/115.png'
 summary = '#115'
 +++
 

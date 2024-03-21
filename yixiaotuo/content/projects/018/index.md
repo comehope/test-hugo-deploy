@@ -1,7 +1,7 @@
 +++
 title = '笔划可变形的 404 特效'
 date = 2018-05-11T15:38:38+08:00
-image = '/fe/img/thumbs/018.png'
+image = '/test-hugo-deploy/img/thumbs/018.png'
 summary = '#18'
 +++
 

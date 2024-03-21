@@ -1,7 +1,7 @@
 +++
 title = '旋臂粒子动画'
 date = 2018-07-25T17:17:40+08:00
-image = '/fe/img/thumbs/089.png'
+image = '/test-hugo-deploy/img/thumbs/089.png'
 summary = '#89'
 +++
 

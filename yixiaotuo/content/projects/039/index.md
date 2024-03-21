@@ -1,7 +1,7 @@
 +++
 title = '条纹彩虹心'
 date = 2018-06-01T15:47:45+08:00
-image = '/fe/img/thumbs/039.png'
+image = '/test-hugo-deploy/img/thumbs/039.png'
 summary = '#39'
 +++
 

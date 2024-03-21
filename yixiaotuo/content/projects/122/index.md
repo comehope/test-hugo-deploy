@@ -1,7 +1,7 @@
 +++
 title = '苹果相册图标'
 date = 2018-08-30T17:45:01+08:00
-image = '/fe/img/thumbs/122.png'
+image = '/test-hugo-deploy/img/thumbs/122.png'
 summary = '#122'
 +++
 

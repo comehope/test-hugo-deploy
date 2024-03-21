@@ -1,7 +1,7 @@
 +++
 title = '记事本动画'
 date = 2018-06-02T15:48:01+08:00
-image = '/fe/img/thumbs/040.png'
+image = '/test-hugo-deploy/img/thumbs/040.png'
 summary = '#40'
 +++
 

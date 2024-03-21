@@ -1,7 +1,7 @@
 +++
 title = '变色旋转 loading 特效'
 date = 2018-05-10T15:36:35+08:00
-image = '/fe/img/thumbs/017.png'
+image = '/test-hugo-deploy/img/thumbs/017.png'
 summary = '#17'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = '雷达扫描'
 date = 2018-06-14T17:07:00+08:00
-image = '/fe/img/thumbs/051.png'
+image = '/test-hugo-deploy/img/thumbs/051.png'
 summary = '#51'
 +++
 

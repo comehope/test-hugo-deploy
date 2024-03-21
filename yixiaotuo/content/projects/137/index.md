@@ -1,7 +1,7 @@
 +++
 title = '抽象水波'
 date = 2018-09-17T17:49:09+08:00
-image = '/fe/img/thumbs/137.png'
+image = '/test-hugo-deploy/img/thumbs/137.png'
 summary = '#137'
 +++
 

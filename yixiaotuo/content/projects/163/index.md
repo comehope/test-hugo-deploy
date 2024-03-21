@@ -1,7 +1,7 @@
 +++
 title = '多选一场景的交互游戏'
 date = 2018-11-30T17:56:17+08:00
-image = '/fe/img/thumbs/163.png'
+image = '/test-hugo-deploy/img/thumbs/163.png'
 summary = '#163'
 +++
 

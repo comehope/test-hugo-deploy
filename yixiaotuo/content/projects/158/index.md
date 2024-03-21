@@ -1,7 +1,7 @@
 +++
 title = '雨伞 Toggle'
 date = 2018-10-18T17:54:45+08:00
-image = '/fe/img/thumbs/158.png'
+image = '/test-hugo-deploy/img/thumbs/158.png'
 summary = '#158'
 +++
 

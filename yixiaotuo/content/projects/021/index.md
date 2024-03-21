@@ -1,7 +1,7 @@
 +++
 title = '文本滑动 UI'
 date = 2018-05-14T15:41:53+08:00
-image = '/fe/img/thumbs/021.png'
+image = '/test-hugo-deploy/img/thumbs/021.png'
 summary = '#21'
 +++
 

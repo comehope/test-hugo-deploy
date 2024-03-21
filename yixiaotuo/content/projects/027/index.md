@@ -1,7 +1,7 @@
 +++
 title = '彩虹 loader'
 date = 2018-05-20T15:43:46+08:00
-image = '/fe/img/thumbs/027.png'
+image = '/test-hugo-deploy/img/thumbs/027.png'
 summary = '#27'
 +++
 

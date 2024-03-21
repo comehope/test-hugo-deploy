@@ -1,7 +1,7 @@
 +++
 title = '向医护人员致敬'
 date = 2020-01-27T17:58:16+08:00
-image = '/fe/img/thumbs/172.png'
+image = '/test-hugo-deploy/img/thumbs/172.png'
 summary = '#172'
 +++
 

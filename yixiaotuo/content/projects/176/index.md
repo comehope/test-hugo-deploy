@@ -3,7 +3,7 @@ title = '人体透视图'
 date = 2020-10-14T17:37:49+08:00
 categories = ['开发实战']
 subtitle = '开发实战 第176号作品'
-image = '/fe/img/thumbs/176.png'
+image = '/test-hugo-deploy/img/thumbs/176.png'
 summary = '#176 一个形象的比喻：HTML 像是人的骨架，JavaScript 像是人的大脑和神经系统，CSS 像是人的皮肤和外貌。'
 +++
 

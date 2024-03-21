@@ -1,7 +1,7 @@
 +++
 title = '彩虹背景文字'
 date = 2018-06-22T17:09:04+08:00
-image = '/fe/img/thumbs/059.png'
+image = '/test-hugo-deploy/img/thumbs/059.png'
 summary = '#59'
 +++
 

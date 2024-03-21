@@ -1,7 +1,7 @@
 +++
 title = '雪花'
 date = 2020-01-06T17:57:54+08:00
-image = '/fe/img/thumbs/171.png'
+image = '/test-hugo-deploy/img/thumbs/171.png'
 summary = '#171'
 +++
 

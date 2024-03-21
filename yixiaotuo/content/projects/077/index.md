@@ -1,7 +1,7 @@
 +++
 title = '飘扬的旗帜'
 date = 2018-07-13T17:14:21+08:00
-image = '/fe/img/thumbs/077.png'
+image = '/test-hugo-deploy/img/thumbs/077.png'
 summary = '#77'
 +++
 

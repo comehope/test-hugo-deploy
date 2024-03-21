@@ -1,7 +1,7 @@
 +++
 title = '描边按钮'
 date = 2018-05-30T15:47:08+08:00
-image = '/fe/img/thumbs/037.png'
+image = '/test-hugo-deploy/img/thumbs/037.png'
 summary = '#37'
 +++
 

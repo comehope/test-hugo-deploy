@@ -1,7 +1,7 @@
 +++
 title = '宝路薄荷糖'
 date = 2018-09-30T17:52:24+08:00
-image = '/fe/img/thumbs/149.png'
+image = '/test-hugo-deploy/img/thumbs/149.png'
 summary = '#149'
 +++
 

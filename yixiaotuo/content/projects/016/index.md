@@ -1,7 +1,7 @@
 +++
 title = '渐变色动画边框'
 date = 2018-05-09T15:29:28+08:00
-image = '/fe/img/thumbs/016.png'
+image = '/test-hugo-deploy/img/thumbs/016.png'
 summary = '#16'
 +++
 

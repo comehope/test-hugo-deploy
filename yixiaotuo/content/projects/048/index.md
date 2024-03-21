@@ -1,7 +1,7 @@
 +++
 title = '蚊香'
 date = 2018-06-11T17:06:09+08:00
-image = '/fe/img/thumbs/048.png'
+image = '/test-hugo-deploy/img/thumbs/048.png'
 summary = '#48'
 +++
 

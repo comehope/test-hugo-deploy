@@ -1,7 +1,7 @@
 +++
 title = '断开的文字特效'
 date = 2018-05-04T15:19:27+08:00
-image = '/fe/img/thumbs/012.png'
+image = '/test-hugo-deploy/img/thumbs/012.png'
 summary = '#12'
 +++
 

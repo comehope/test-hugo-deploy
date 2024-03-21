@@ -1,7 +1,7 @@
 +++
 title = '日蚀'
 date = 2018-05-29T15:46:35+08:00
-image = '/fe/img/thumbs/036.png'
+image = '/test-hugo-deploy/img/thumbs/036.png'
 summary = '#36'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = '表情 Tooltip'
 date = 2018-10-11T17:53:24+08:00
-image = '/fe/img/thumbs/153.png'
+image = '/test-hugo-deploy/img/thumbs/153.png'
 summary = '#153'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = 'Google googol 信息图'
 date = 2018-09-08T17:47:11+08:00
-image = '/fe/img/thumbs/130.png'
+image = '/test-hugo-deploy/img/thumbs/130.png'
 summary = '#130'
 +++
 

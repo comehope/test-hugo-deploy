@@ -1,7 +1,7 @@
 +++
 title = '文本淡入动画效果'
 date = 2018-09-21T17:50:01+08:00
-image = '/fe/img/thumbs/140.png'
+image = '/test-hugo-deploy/img/thumbs/140.png'
 summary = '#140'
 +++
 

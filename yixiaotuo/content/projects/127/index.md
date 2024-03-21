@@ -1,7 +1,7 @@
 +++
 title = '圆环错觉'
 date = 2018-09-05T17:46:24+08:00
-image = '/fe/img/thumbs/127.png'
+image = '/test-hugo-deploy/img/thumbs/127.png'
 summary = '#127'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = '对开门冰箱'
 date = 2018-07-23T17:17:03+08:00
-image = '/fe/img/thumbs/087.png'
+image = '/test-hugo-deploy/img/thumbs/087.png'
 summary = '#87'
 +++
 

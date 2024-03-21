@@ -1,7 +1,7 @@
 +++
 title = '扭动的蠕虫'
 date = 2018-08-01T17:34:24+08:00
-image = '/fe/img/thumbs/095.png'
+image = '/test-hugo-deploy/img/thumbs/095.png'
 summary = '#95'
 +++
 

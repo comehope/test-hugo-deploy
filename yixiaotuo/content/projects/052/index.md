@@ -1,7 +1,7 @@
 +++
 title = '小球绕着圆环盘旋'
 date = 2018-06-15T17:07:15+08:00
-image = '/fe/img/thumbs/052.png'
+image = '/test-hugo-deploy/img/thumbs/052.png'
 summary = '#52'
 +++
 

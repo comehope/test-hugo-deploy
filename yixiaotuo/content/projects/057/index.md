@@ -1,7 +1,7 @@
 +++
 title = '黑暗中眼睛'
 date = 2018-06-20T17:08:35+08:00
-image = '/fe/img/thumbs/057.png'
+image = '/test-hugo-deploy/img/thumbs/057.png'
 summary = '#57'
 +++
 

@@ -3,7 +3,7 @@ title = '数独训练游戏'
 date = 2018-12-09T20:33:47+08:00
 categories = ['开发实战']
 subtitle = '开发实战 第164号作品'
-image = '/fe/img/thumbs/164.png'
+image = '/test-hugo-deploy/img/thumbs/164.png'
 summary = '#164 用于训练快速发现宫内缺哪几个数字'
 +++
 

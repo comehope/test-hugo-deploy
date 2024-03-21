@@ -1,7 +1,7 @@
 +++
 title = '在容器中反弹的小球'
 date = 2018-06-08T17:03:31+08:00
-image = '/fe/img/thumbs/046.png'
+image = '/test-hugo-deploy/img/thumbs/046.png'
 summary = '#46'
 +++
 

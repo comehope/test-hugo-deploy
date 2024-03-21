@@ -1,7 +1,7 @@
 +++
 title = '小鱼游动'
 date = 2018-08-29T17:44:45+08:00
-image = '/fe/img/thumbs/121.png'
+image = '/test-hugo-deploy/img/thumbs/121.png'
 summary = '#121'
 +++
 

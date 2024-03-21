@@ -1,7 +1,7 @@
 +++
 title = '苹果设备'
 date = 2018-10-21T17:55:00+08:00
-image = '/fe/img/thumbs/159.png'
+image = '/test-hugo-deploy/img/thumbs/159.png'
 summary = '#159'
 +++
 

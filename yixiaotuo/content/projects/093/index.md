@@ -1,7 +1,7 @@
 +++
 title = '闪电连接线'
 date = 2018-07-30T17:32:07+08:00
-image = '/fe/img/thumbs/093.png'
+image = '/test-hugo-deploy/img/thumbs/093.png'
 summary = '#93'
 +++
 

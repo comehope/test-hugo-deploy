@@ -1,7 +1,7 @@
 +++
 title = '文字組成的心形'
 date = 2018-08-17T17:41:28+08:00
-image = '/fe/img/thumbs/109.png'
+image = '/test-hugo-deploy/img/thumbs/109.png'
 summary = '#109'
 +++
 

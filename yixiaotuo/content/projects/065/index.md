@@ -1,7 +1,7 @@
 +++
 title = '摇晃的 loader'
 date = 2018-06-29T17:10:41+08:00
-image = '/fe/img/thumbs/065.png'
+image = '/test-hugo-deploy/img/thumbs/065.png'
 summary = '#65'
 +++
 

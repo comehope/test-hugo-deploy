@@ -1,7 +1,7 @@
 +++
 title = '树枝发芽'
 date = 2018-09-13T17:48:15+08:00
-image = '/fe/img/thumbs/134.png'
+image = '/test-hugo-deploy/img/thumbs/134.png'
 summary = '#134'
 +++
 

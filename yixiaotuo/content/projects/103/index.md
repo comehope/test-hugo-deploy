@@ -1,7 +1,7 @@
 +++
 title = '监控眼'
 date = 2018-08-12T17:39:57+08:00
-image = '/fe/img/thumbs/103.png'
+image = '/test-hugo-deploy/img/thumbs/103.png'
 summary = '#103'
 +++
 

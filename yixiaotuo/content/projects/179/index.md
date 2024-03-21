@@ -3,7 +3,7 @@ title = '撕日历交互特效'
 date = 2023-09-07T16:32:24+08:00
 categories = ['开发实战']
 subtitle = '开发实战 第179号作品'
-image = '/fe/img/thumbs/179.png'
+image = '/test-hugo-deploy/img/thumbs/179.png'
 summary = '#179'
 +++
 

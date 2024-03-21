@@ -1,7 +1,7 @@
 +++
 title = '太阳、地球、月亮模型'
 date = 2018-06-18T17:08:05+08:00
-image = '/fe/img/thumbs/055.png'
+image = '/test-hugo-deploy/img/thumbs/055.png'
 summary = '#55'
 +++
 

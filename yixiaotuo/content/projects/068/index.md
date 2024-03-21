@@ -1,7 +1,7 @@
 +++
 title = '色卡'
 date = 2018-07-03T17:11:40+08:00
-image = '/fe/img/thumbs/068.png'
+image = '/test-hugo-deploy/img/thumbs/068.png'
 summary = '#68'
 +++
 

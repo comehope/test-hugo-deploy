@@ -1,7 +1,7 @@
 +++
 title = 'marquee 动画'
 date = 2018-05-22T15:44:23+08:00
-image = '/fe/img/thumbs/029.png'
+image = '/test-hugo-deploy/img/thumbs/029.png'
 summary = '#29'
 +++
 

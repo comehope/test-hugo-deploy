@@ -1,7 +1,7 @@
 +++
 title = '技能卡片'
 date = 2018-05-08T15:27:05+08:00
-image = '/fe/img/thumbs/015.png'
+image = '/test-hugo-deploy/img/thumbs/015.png'
 summary = '#15'
 +++
 

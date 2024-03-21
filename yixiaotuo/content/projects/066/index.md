@@ -1,7 +1,7 @@
 +++
 title = '咖啡机'
 date = 2018-07-01T17:10:59+08:00
-image = '/fe/img/thumbs/066.png'
+image = '/test-hugo-deploy/img/thumbs/066.png'
 summary = '#66'
 +++
 

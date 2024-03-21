@@ -3,7 +3,7 @@ title = '“数略词”交互动画'
 date = 2019-06-13T18:26:30+08:00
 categories = ['开发实战']
 subtitle = '开发实战 第169号作品'
-image = '/fe/img/thumbs/169.png'
+image = '/test-hugo-deploy/img/thumbs/169.png'
 summary = '#169 演示长单词是如何转换为“数略词”的'
 +++
 

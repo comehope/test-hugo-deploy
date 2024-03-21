@@ -1,7 +1,7 @@
 +++
 title = '牛奶文字'
 date = 2018-05-26T15:45:48+08:00
-image = '/fe/img/thumbs/033.png'
+image = '/test-hugo-deploy/img/thumbs/033.png'
 summary = '#33'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = '像素画红心动画'
 date = 2018-05-13T15:41:33+08:00
-image = '/fe/img/thumbs/020.png'
+image = '/test-hugo-deploy/img/thumbs/020.png'
 summary = '#20'
 +++
 

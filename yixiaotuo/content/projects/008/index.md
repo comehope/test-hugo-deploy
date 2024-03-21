@@ -1,7 +1,7 @@
 +++
 title = '充电 loading 特效'
 date = 2018-04-30T12:51:19+08:00
-image = '/fe/img/thumbs/008.png'
+image = '/test-hugo-deploy/img/thumbs/008.png'
 summary = '#8'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = '电源开关'
 date = 2018-09-27T17:51:19+08:00
-image = '/fe/img/thumbs/145.png'
+image = '/test-hugo-deploy/img/thumbs/145.png'
 summary = '#145'
 +++
 

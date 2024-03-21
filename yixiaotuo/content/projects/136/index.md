@@ -1,7 +1,7 @@
 +++
 title = '彩色横线 loader'
 date = 2018-09-15T17:48:52+08:00
-image = '/fe/img/thumbs/136.png'
+image = '/test-hugo-deploy/img/thumbs/136.png'
 summary = '#136'
 +++
 

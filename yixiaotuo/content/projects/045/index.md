@@ -1,7 +1,7 @@
 +++
 title = '菱形方块 loader 动画'
 date = 2018-06-07T17:03:08+08:00
-image = '/fe/img/thumbs/045.png'
+image = '/test-hugo-deploy/img/thumbs/045.png'
 summary = '#45'
 +++
 

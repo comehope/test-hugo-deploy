@@ -1,7 +1,7 @@
 +++
 title = '侧立的图书'
 date = 2018-05-07T15:23:49+08:00
-image = '/fe/img/thumbs/014.png'
+image = '/test-hugo-deploy/img/thumbs/014.png'
 summary = '#14'
 +++
 

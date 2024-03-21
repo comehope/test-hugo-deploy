@@ -1,7 +1,7 @@
 +++
 title = '没有 DOM 的动画'
 date = 2018-08-15T17:40:42+08:00
-image = '/fe/img/thumbs/106.png'
+image = '/test-hugo-deploy/img/thumbs/106.png'
 summary = '#106'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = '愤怒小鸟的绿猪'
 date = 2018-08-07T17:38:18+08:00
-image = '/fe/img/thumbs/098.png'
+image = '/test-hugo-deploy/img/thumbs/098.png'
 summary = '#98'
 +++
 

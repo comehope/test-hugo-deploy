@@ -1,7 +1,7 @@
 +++
 title = '锡纸撕纸效果'
 date = 2018-08-28T17:44:19+08:00
-image = '/fe/img/thumbs/120.png'
+image = '/test-hugo-deploy/img/thumbs/120.png'
 summary = '#120'
 +++
 

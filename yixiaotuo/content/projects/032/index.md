@@ -1,7 +1,7 @@
 +++
 title = '六边形按钮'
 date = 2018-05-25T15:45:30+08:00
-image = '/fe/img/thumbs/032.png'
+image = '/test-hugo-deploy/img/thumbs/032.png'
 summary = '#32'
 +++
 

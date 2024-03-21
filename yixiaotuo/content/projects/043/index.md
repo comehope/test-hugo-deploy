@@ -1,7 +1,7 @@
 +++
 title = 'Vue logo'
 date = 2018-06-05T15:51:01+08:00
-image = '/fe/img/thumbs/043.png'
+image = '/test-hugo-deploy/img/thumbs/043.png'
 summary = '#43'
 +++
 

@@ -3,7 +3,7 @@ title = '多张图片的鼠标悬停和滑动特效'
 date = 2020-10-21T17:10:20+08:00
 categories = ['开发实战']
 subtitle = '开发实战 第177号作品'
-image = '/fe/img/thumbs/177.png'
+image = '/test-hugo-deploy/img/thumbs/177.png'
 summary = '#177'
 +++
 

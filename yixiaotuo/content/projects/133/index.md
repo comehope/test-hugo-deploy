@@ -1,7 +1,7 @@
 +++
 title = 'GSAP 连续动画'
 date = 2018-09-12T17:47:57+08:00
-image = '/fe/img/thumbs/133.png'
+image = '/test-hugo-deploy/img/thumbs/133.png'
 summary = '#133'
 +++
 

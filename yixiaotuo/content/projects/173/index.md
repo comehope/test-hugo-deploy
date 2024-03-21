@@ -1,7 +1,7 @@
 +++
 title = '纪念科比·布莱恩特'
 date = 2020-01-28T17:58:36+08:00
-image = '/fe/img/thumbs/173.png'
+image = '/test-hugo-deploy/img/thumbs/173.png'
 summary = '#173'
 +++
 

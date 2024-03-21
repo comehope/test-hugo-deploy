@@ -1,7 +1,7 @@
 +++
 title = '土星'
 date = 2018-07-28T17:31:47+08:00
-image = '/fe/img/thumbs/092.png'
+image = '/test-hugo-deploy/img/thumbs/092.png'
 summary = '#92'
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = '同心圆弧旋转 loading 特效'
 date = 2018-05-02T15:11:39+08:00
-image = '/fe/img/thumbs/010.png'
+image = '/test-hugo-deploy/img/thumbs/010.png'
 summary = '#10'
 +++
 

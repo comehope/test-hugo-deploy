@@ -1,7 +1,7 @@
 +++
 title = 'Safari Logo'
 date = 2019-05-17T17:56:48+08:00
-image = '/fe/img/thumbs/166.png'
+image = '/test-hugo-deploy/img/thumbs/166.png'
 summary = '#166'
 +++
 

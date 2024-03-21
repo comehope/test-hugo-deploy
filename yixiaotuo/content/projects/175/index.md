@@ -1,7 +1,7 @@
 +++
 title = '阴阳图案'
 date = 2020-10-10T17:59:19+08:00
-image = '/fe/img/thumbs/175.png'
+image = '/test-hugo-deploy/img/thumbs/175.png'
 summary = '#175'
 +++
 

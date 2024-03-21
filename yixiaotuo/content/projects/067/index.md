@@ -2,7 +2,7 @@
 title = '点阵 loader'
 date = 2018-07-02T17:11:20+08:00
 tags = ['']
-image = '/fe/img/thumbs/067.png'
+image = '/test-hugo-deploy/img/thumbs/067.png'
 summary = '#67'
 +++
 

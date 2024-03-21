@@ -1,7 +1,7 @@
 +++
 title = 'MacBook Pro'
 date = 2018-07-09T17:13:31+08:00
-image = '/fe/img/thumbs/074.png'
+image = '/test-hugo-deploy/img/thumbs/074.png'
 summary = '#74'
 +++
 

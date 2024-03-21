@@ -1,7 +1,7 @@
 +++
 title = '沙漏'
 date = 2018-08-26T17:43:51+08:00
-image = '/fe/img/thumbs/118.png'
+image = '/test-hugo-deploy/img/thumbs/118.png'
 summary = '#118'
 +++
 

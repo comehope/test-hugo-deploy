@@ -1,7 +1,7 @@
 +++
 title = '棋盘错觉'
 date = 2018-10-17T17:54:26+08:00
-image = '/fe/img/thumbs/157.png'
+image = '/test-hugo-deploy/img/thumbs/157.png'
 summary = '#157'
 +++
 

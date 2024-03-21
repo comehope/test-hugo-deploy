@@ -1,7 +1,7 @@
 +++
 title = '飞机舷窗 Toggle'
 date = 2018-10-15T17:54:10+08:00
-image = '/fe/img/thumbs/156.png'
+image = '/test-hugo-deploy/img/thumbs/156.png'
 summary = '#156'
 +++
 

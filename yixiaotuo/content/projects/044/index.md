@@ -1,7 +1,7 @@
 +++
 title = '背景色块变换按钮特效'
 date = 2018-06-06T15:51:18+08:00
-image = '/fe/img/thumbs/044.png'
+image = '/test-hugo-deploy/img/thumbs/044.png'
 summary = '#44'
 +++
 

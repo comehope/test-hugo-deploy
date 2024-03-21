@@ -1,7 +1,7 @@
 +++
 title = '晃动的公告牌'
 date = 2018-05-23T15:44:42+08:00
-image = '/fe/img/thumbs/030.png'
+image = '/test-hugo-deploy/img/thumbs/030.png'
 summary = '#30 已发布30个作品，感谢大家的支持！'
 +++
 

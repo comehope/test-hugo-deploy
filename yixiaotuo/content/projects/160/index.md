@@ -1,7 +1,7 @@
 +++
 title = '打开弹窗的交互动画'
 date = 2018-10-23T17:55:17+08:00
-image = '/fe/img/thumbs/160.png'
+image = '/test-hugo-deploy/img/thumbs/160.png'
 summary = '#160'
 +++
 

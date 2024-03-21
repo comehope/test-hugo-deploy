@@ -1,7 +1,7 @@
 +++
 title = '无尽的六边形空间'
 date = 2018-07-26T17:31:12+08:00
-image = '/fe/img/thumbs/090.png'
+image = '/test-hugo-deploy/img/thumbs/090.png'
 summary = '#90'
 +++
 

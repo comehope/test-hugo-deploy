@@ -1,7 +1,7 @@
 +++
 title = '容器厚条纹边框特效'
 date = 2018-04-25T12:19:34+08:00
-image = '/fe/img/thumbs/003.png'
+image = '/test-hugo-deploy/img/thumbs/003.png'
 summary = '#3'
 +++
 

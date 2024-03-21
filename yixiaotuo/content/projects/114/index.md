@@ -1,7 +1,7 @@
 +++
 title = '混色 loader'
 date = 2018-08-22T17:42:50+08:00
-image = '/fe/img/thumbs/114.png'
+image = '/test-hugo-deploy/img/thumbs/114.png'
 summary = '#114'
 +++
 

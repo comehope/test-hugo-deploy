@@ -1,7 +1,7 @@
 +++
 title = '抛盒子 loader'
 date = 2018-07-04T17:11:58+08:00
-image = '/fe/img/thumbs/069.png'
+image = '/test-hugo-deploy/img/thumbs/069.png'
 summary = '#69'
 +++
 

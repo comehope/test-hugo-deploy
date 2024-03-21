@@ -1,7 +1,7 @@
 +++
 title = '蝴蝶标本'
 date = 2018-06-09T17:05:52+08:00
-image = '/fe/img/thumbs/047.png'
+image = '/test-hugo-deploy/img/thumbs/047.png'
 summary = '#47'
 +++
 

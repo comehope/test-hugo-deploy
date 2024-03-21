@@ -1,7 +1,7 @@
 +++
 title = 'iPhone 价格信息图'
 date = 2018-09-19T17:49:23+08:00
-image = '/fe/img/thumbs/138.png'
+image = '/test-hugo-deploy/img/thumbs/138.png'
 summary = '#138'
 +++
 

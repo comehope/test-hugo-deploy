@@ -1,7 +1,7 @@
 +++
 title = '国际象棋'
 date = 2018-06-17T17:07:48+08:00
-image = '/fe/img/thumbs/054.png'
+image = '/test-hugo-deploy/img/thumbs/054.png'
 summary = '#54'
 +++
 

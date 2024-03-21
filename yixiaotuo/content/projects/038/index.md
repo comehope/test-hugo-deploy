@@ -1,7 +1,7 @@
 +++
 title = '阶梯文字'
 date = 2018-05-31T15:47:26+08:00
-image = '/fe/img/thumbs/038.png'
+image = '/test-hugo-deploy/img/thumbs/038.png'
 summary = '#38'
 +++
 

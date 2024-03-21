@@ -1,7 +1,7 @@
 +++
 title = '矩形旋转 loading 特效'
 date = 2018-04-24T12:14:21+08:00
-image = '/fe/img/thumbs/002.png'
+image = '/test-hugo-deploy/img/thumbs/002.png'
 summary = '#2'
 +++
 

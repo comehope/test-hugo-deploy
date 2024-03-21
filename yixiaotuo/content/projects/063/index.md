@@ -1,7 +1,7 @@
 +++
 title = '烤面包机'
 date = 2018-06-27T17:10:07+08:00
-image = '/fe/img/thumbs/063.png'
+image = '/test-hugo-deploy/img/thumbs/063.png'
 summary = '#63'
 +++
 

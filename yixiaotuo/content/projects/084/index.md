@@ -1,7 +1,7 @@
 +++
 title = '极品飞车 loader'
 date = 2018-07-20T17:16:17+08:00
-image = '/fe/img/thumbs/084.png'
+image = '/test-hugo-deploy/img/thumbs/084.png'
 summary = '#84'
 +++
 
