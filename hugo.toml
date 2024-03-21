@@ -1,4 +1,4 @@
-baseURL = 'https://yidatuo.com/fe/'
+baseURL = 'https://comehope.github.io/test-hugo-deploy/'
 languageCode = 'en-us'
 title = '前端实战·一大坨'
 relativeURLs = true
