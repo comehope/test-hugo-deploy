@@ -1,0 +1,50 @@
+baseURL = 'https://yidatuo.com/fe/'
+languageCode = 'en-us'
+title = '前端实战·一大坨'
+relativeURLs = true
+
+name = "Creative portfolio"
+license = "MIT"
+licenselink = "https://github.com/kishaningithub/hugo-creative-portfolio-theme/blob/master/LICENSE"
+description = "Port of the creative portfolio theme"
+homepage = "https://github.com/kishaningithub/hugo-creative-portfolio-theme"
+tags = ["creative", "portfolio", "projects", "minimal", "responsive"]
+features = ["disqus", "bootstrap", "responsive", "google analytics"]
+min_version = 0.20
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "blue"
+  description = "前端实战项目"
+  copyright = "张偶 2014-2024 一大坨"
+  sidebarAbout = [
+    "本栏目是我近年来实践项目式学习的笔记。", 
+    "以项目驱动学习，展现从灵感闪现到代码实现的完整过程。",
+    "亦可作为前端开发的练手习题和开发参考。"
+  ]
+  
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "一大坨首页"
+  url = "https://yidatuo.com"
+  home = true
+
+  [[params.navlinks]]
+  name = "关于坨主"
+  url = "http://yidatuo.com/about/"
+  home = false
+
+[module]
+[[module.mounts]]
+    source = 'yixiaotuo/content'
+    target = 'content'
+[[module.mounts]]
+    source = 'yixiaotuo/archetypes'
+    target = 'archetypes'
+[[module.mounts]]
+    source = 'yixiaotuo/layouts'
+    target = 'layouts'
+[[module.mounts]]
+    source = 'yixiaotuo/static'
+    target = 'static'
